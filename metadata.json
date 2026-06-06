@@ -1,0 +1,6 @@
+{
+  "name": "Ekomart",
+  "description": "A vibrant, modern e-commerce platform featuring a wide range of products, seamless cart management, and a smooth checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
